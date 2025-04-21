@@ -1,0 +1,6 @@
+from circleshape import *
+
+
+def Asteroid():
+	sef __init__(self, x, y, radius):
+	
